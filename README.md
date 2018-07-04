@@ -1,4 +1,4 @@
-# RealTimeVideoDecodingwithLIVE555
+# RealTime Video Decoding with LIVE555
 
 The project requries Visual studio 2010
 
